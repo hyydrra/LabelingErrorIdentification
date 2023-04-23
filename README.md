@@ -1,8 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
-  <title>Labeling Error Identification</title>
-</head>
 <body>
   <h1>Labeling Error Identification</h1>
   <p>This repository contains two Jupyter notebooks that demonstrate the use of a modified Confident Learning algorithm for identifying mislabeled data in the Ag news and CIFAR10 datasets. The modified algorithm uses artificially generated out-of-scope data to enhance the identification of mislabeled examples, and it outperforms the baseline method for cleaning noisy datasets.</p>
